@@ -15,4 +15,4 @@ A Text-to-Tactile-Morse system.
 * Vibrating motor disc
 
 #### Variant 2
-* Hackable or reverse-engineered adult toy.
+* Hackable or reverse-engineered adult toy
