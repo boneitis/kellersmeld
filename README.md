@@ -1,7 +1,7 @@
 # Keller's Meld
 A Text-to-Tactile-Morse system.
 
-_The direct pathway to freedom._
+_The direct pathway [to freedom]._
 
 ![keller's](https://github.com/boneitis/kellersmeld/raw/master/keller.png)
 ![meld](https://github.com/boneitis/kellersmeld/raw/master/meld.jpg)
