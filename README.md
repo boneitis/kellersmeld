@@ -13,8 +13,9 @@ _From that moment, I understood the direct pathway [to freedom]._
 
 #### Variant 1
 * FLORA / GEMMA
-* Bluefruit LE
+* DRV2605L Haptic Motor Controller
 * Vibrating motor disc
+* Bluefruit LE
 
 #### Variant 2
 * Hackable or reverse-engineered adult toy
