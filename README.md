@@ -4,7 +4,7 @@ A Text-to-Tactile-Morse system.
 ![keller's](https://github.com/boneitis/kellersmeld/raw/master/keller.png)
 ![meld](https://github.com/boneitis/kellersmeld/raw/master/meld.jpg)
 
-_From that moment, I understood the direct pathway [to freedom]._
+_From that moment, I understood the direct pathway [...] to freedom._
 
 ### Personal Research into Content Consumption via Tactile Media
 An experimental survey of content consumption by tactile means, enabling seamless, bidirectional relegation-and-promotion between primary and passive attentions of sensory channels _(i.e., **touch in addition** to sight and sound)_.
