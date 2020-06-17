@@ -7,15 +7,18 @@ A Text-to-Tactile-Morse system.
 _From that moment, I understood the direct pathway [to freedom]._
 
 ### Personal Research into Content Consumption via Tactile Media
-An experimental survey of content consumption by tactile means, enabling seamless, bidirectional relegation-and-promotion between primary and passive attentions of sensory channels (i.e., **touch in addition** to sight and sound). Current prototyping efforts aim to implement discrete modules supporting:
+An experimental survey of content consumption by tactile means, enabling seamless, bidirectional relegation-and-promotion between primary and passive attentions of sensory channels _(i.e., **touch in addition** to sight and sound)_.
+
+Prototyping efforts aim to implement discrete modules supporting:
 * unencumbered eBook formats _(for discreet Dark Arts attainment, a la Frederick Douglass)_
 * submission-discussion websites _(for always-on Social Media always-connectedness, a la ~~your addicted tween- and teen-aged loved ones~~the Borg Collective)_
 
-Sincerely, please consider always the value of unplugging.
+With warmth, please consider always the value of unplugging.
 
 Proposed longterm milestones _(most-probably out of scope)_ envision to implement additional modules that cover primarily-text-based web content, such as:
 * transcribed content, namely, documentaries and podcasts
 * encumbered standards _(commercial eBooks and the like)_, via licensing arrangements
+* pulling live updates from monitored channels
 * half-facetiously, your favorite massively online publishing platforms
 * the other half toward feeding your immediate-finging and tome-chirping addictions
 
@@ -32,7 +35,6 @@ Proposed longterm milestones _(most-probably out of scope)_ envision to implemen
 * Adafruit Circuit Playground, Bluefruit ed., ..., etc.
 * hackable or reverse-engineered adult toy
 
-#### Stretch Features, Mostly Out of Scope
-* pulling live updates from monitored channels
-* general-purpose IO for mobile devices (texting, flowerposting)
-* advertising via the tactile medium (eek!)
+#### Stretch Features, Out of Prototyping Scope
+* general-purpose IO for mobile devices _(texting, flowerposting)_
+* advertising via the tactile medium _(eek!)_
