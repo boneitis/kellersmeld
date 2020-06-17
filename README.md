@@ -13,7 +13,7 @@ This is accomplished with a small, vibrating motor disc affixed inconspicuously 
 
 Prototyping efforts aim to implement discrete modules supporting:
 * unencumbered eBook formats _(for discreet Dark Arts attainment, a la Frederick Douglass)_
-* submission-discussion websites _(for always-on Social Media always-connectedness, a la ~~your addicted tween- and teen-aged loved ones~~the Borg Collective)_
+* submission-discussion websites _(for always-on Social Media always-connectedness, a la ~~your addicted tween- and teen-aged loved ones~~ the Borg Collective)_
 
 With warmth, please consider always the value of unplugging.
 
