@@ -6,7 +6,7 @@ A Text-to-Tactile-Morse system.
 
 _From that moment, I understood the direct pathway [...] to freedom._
 
-### Personal Research into Content Consumption via Tactile Media
+### Personal Research into Passive Content Consumption via Tactile Media
 An experimental survey of content consumption by tactile means, enabling seamless, bidirectional relegation-and-promotion between primary and passive attentions of sensory channels _(i.e., **touch in addition** to sight and sound)_.
 
 Prototyping efforts aim to implement discrete modules supporting:
