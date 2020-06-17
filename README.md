@@ -18,7 +18,7 @@ Prototyping efforts aim to implement discrete modules supporting:
 With warmth, please consider always the value of unplugging.
 
 Proposed longterm milestones _(most-probably out of scope)_ envision to implement additional modules that cover primarily-text-based web content, such as:
-* transcribed content, namely, documentaries and podcasts
+* transcribed material, namely, documentaries and podcasts
 * encumbered standards _(commercial eBooks and the like)_, via licensing arrangements
 * pulling live updates from monitored channels
 * half-facetiously, your favorite massively online publishing platforms
