@@ -9,7 +9,7 @@ _From that moment, I understood the direct pathway [...] to freedom._
 ### Personal Research into Passive Content Consumption via Tactile Media
 An experimental survey of, through **sensory touch**, the viability of relegating content consumption to a user's passive focus as emergent tasks tap into sensory bandwidth (i.e., sight and hearing).
 
-This is accomplished with a small, vibrating motor disc affixed inconspicuously to the user's skin (perhaps at the waistline) transmitting textual data by rhythmic, Morse code-keyed pulsations.
+This is accomplished with a small, vibrating motor disc affixed inconspicuously to the user's skin (perhaps at the waistline) **transmitting textual data by rhythmic, Morse code-keyed pulsations**.
 
 Prototyping efforts aim to implement discrete modules supporting:
 * unencumbered eBook formats _(for discreet Dark Arts attainment, a la Frederick Douglass)_
