@@ -7,7 +7,7 @@ A Text-to-Tactile-Morse system.
 _From that moment, I understood the direct pathway [...] to freedom._
 
 ### Personal Research into Passive Content Consumption via Tactile Media
-An experimental survey of, through **sensory touch**, the viability of relegating content consumption to a user's passive focus as emergent tasks tap into sensory bandwidth (i.e., sight and hearing).
+An experimental survey of, through **sensory touch**, the viability of relegating content consumption to a user's passive focus as emergent tasks tap into sensory bandwidth (i.e., sight, hearing, and active touch).
 
 This is accomplished with a small, vibrating motor disc affixed inconspicuously to the user's skin (perhaps at the waistline) **transmitting textual data by rhythmic, Morse code-keyed pulsations**.
 
