@@ -7,7 +7,9 @@ A Text-to-Tactile-Morse system.
 _From that moment, I understood the direct pathway [...] to freedom._
 
 ### Personal Research into Passive Content Consumption via Tactile Media
-An experimental survey of content consumption by tactile means, enabling seamless, bidirectional relegation-and-promotion between primary and passive attentions of sensory channels _(i.e., **touch in addition** to sight and sound)_.
+An experimental survey of, through **sensory touch**, the viability of relegating content consumption to a user's passive focus as emergent tasks tap into sensory bandwidth (i.e., sight and hearing).
+
+This is accomplished with a small, vibrating motor disc affixed inconspicuously to the user's skin (perhaps at the waistline) transmitting textual data by rhythmic, Morse code-keyed pulsations.
 
 Prototyping efforts aim to implement discrete modules supporting:
 * unencumbered eBook formats _(for discreet Dark Arts attainment, a la Frederick Douglass)_
@@ -37,4 +39,5 @@ Proposed longterm milestones _(most-probably out of scope)_ envision to implemen
 
 #### Stretch Features, Out of Prototyping Scope
 * general-purpose IO for mobile devices _(texting, flowerposting)_
+* further IO augmentation with effects and intensity _(menu/state navigation)_
 * advertising via the tactile medium _(eek!)_
