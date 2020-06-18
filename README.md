@@ -2,7 +2,7 @@
 A Text-to-Tactile-Morse system.
 
 ![keller's](https://github.com/boneitis/kellersmeld/raw/master/keller.png)
-![meld](https://github.com/boneitis/kellersmeld/raw/master/meld.jpg)
+![meld](https://github.com/boneitis/kellersmeld/raw/master/meld.png)
 
 _From that moment, I understood the direct pathway [...] to freedom._
 
