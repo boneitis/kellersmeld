@@ -7,7 +7,7 @@ A Text-to-Tactile-Morse system.
 _"From that moment, I understood the direct pathway [..] to freedom."_
 
 ### An Open Proposal to Whom It May Concern
-An experimental survey of, through **sensory touch**, the viability of relegating content consumption to passive, and often non-primary, focus as emergent tasks tap into and out of sensory bandwidth (i.e., sight, hearing, and active touch).
+To experimentally survey the viability of relegating content consumption to passive, and often non-primary, focus through **sensory touch** as emergent tasks tap into and out of sensory bandwidth (i.e., sight, hearing, and active touch).
 
 This is envisioned to be accomplished with a small, vibrating motor disc affixed inconspicuously to the user's skin (hand, waistline, or where choose you) **transmitting textual data by rhythmic, Morse code-keyed pulsations**.
 
